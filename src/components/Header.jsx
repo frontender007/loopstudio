@@ -4,7 +4,9 @@ const Header = () => {
     return (
         <header>
             <Navbar />
-            <h1>Immersive Experiences that deliver</h1>
+            <div className="callout">
+                <h1>Immersive Experiences that deliver</h1>
+            </div>
         </header>
     )
 }

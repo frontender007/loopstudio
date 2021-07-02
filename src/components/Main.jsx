@@ -1,10 +1,10 @@
 const Main = () => {
     return (
-        <section>
-           <div>
+        <section className="main">
+           <div className="vr-illustration">
                <img src="/images/desktop/image-interactive.jpg" alt="VR Image" />
            </div>
-           <div>
+           <div className="vr-description">
                <h2>The leader in interactive VR</h2>
                <p>
                 Founded in 2011, Loopstudios has been producing world-class virtual reality 
