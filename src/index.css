@@ -100,6 +100,64 @@ nav ul li {
 }
 
 
+.creations {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 100px;
+}
+
+.creations h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  padding: 10px 30px;
+  font-size: 22px;
+  background-color:hsl(0, 0%, 0%);
+  color:hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+.btn:hover {
+  border: 1px solid hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 0%);
+  background: hsl(0, 0%, 100%);
+}
+
+.btn:hover a {
+  color: hsl(0, 0%, 0%);
+  text-transform: uppercase;
+}
+
+.creations h4 {
+  font-size: 22px;
+  position: relative;
+  top: -100px;
+  left: 20px;
+  color: hsl(0, 0%, 100%);
+  text-transform: uppercase;
+}
+
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li:first-of-type {
+  padding-left: 0;
+  margin-left: 0;
+}
 
 a {
   color: hsl(0, 0%, 100%);
@@ -108,6 +166,29 @@ a {
 
 footer {
   background-color: hsl(0, 0%, 0%);
+  padding: 20px 100px 10px 100px;
+}
+
+footer .row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.social ul li {
+  margin: 0 15px;
+}
+
+.social ul li:last-of-type {
+  margin-right: 0;
 }
 
 footer a, footer small {

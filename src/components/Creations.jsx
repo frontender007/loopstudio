@@ -1,11 +1,11 @@
 const Creations = () => {
     return (
-        <section>
+        <section className="creations">
             <div className="row">
                 <div>
                     <h2>Our Creations</h2>
                 </div>
-                <div>View All</div>
+                <div className="btn"><a href="/">View All</a></div>
             </div>
 
             <div className="row">
