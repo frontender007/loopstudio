@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/loopstudio/static/css/main.137436d4.chunk.css",
+    "main.js": "/loopstudio/static/js/main.04a5e95a.chunk.js",
+    "main.js.map": "/loopstudio/static/js/main.04a5e95a.chunk.js.map",
+    "runtime-main.js": "/loopstudio/static/js/runtime-main.8528f345.js",
+    "runtime-main.js.map": "/loopstudio/static/js/runtime-main.8528f345.js.map",
+    "static/js/2.aff42bc3.chunk.js": "/loopstudio/static/js/2.aff42bc3.chunk.js",
+    "static/js/2.aff42bc3.chunk.js.map": "/loopstudio/static/js/2.aff42bc3.chunk.js.map",
+    "index.html": "/loopstudio/index.html",
+    "static/css/main.137436d4.chunk.css.map": "/loopstudio/static/css/main.137436d4.chunk.css.map",
+    "static/js/2.aff42bc3.chunk.js.LICENSE.txt": "/loopstudio/static/js/2.aff42bc3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/loopstudio/static/media/image-hero.3de81110.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8528f345.js",
+    "static/js/2.aff42bc3.chunk.js",
+    "static/css/main.137436d4.chunk.css",
+    "static/js/main.04a5e95a.chunk.js"
+  ]
+}
