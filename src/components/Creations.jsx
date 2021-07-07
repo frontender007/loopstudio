@@ -40,7 +40,7 @@ const Creations = () => {
                     <h4>Curiosity</h4>
                 </div>
                 <div>
-                    <img src="/images/desktop/image-fisheye.jpg" alt="Fish Eye" />
+                    <img src="images/desktop/image-fisheye.jpg" alt="Fish Eye" />
                     <h4>Fish Eye</h4>
                 </div>
             </div>
