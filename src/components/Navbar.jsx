@@ -1,10 +1,11 @@
+
 const Navbar = () => {
     return (
         <div className="navbar">
 
             <div>
                 <a href="/" className="brand-identity">
-                    <img src="https://github.com/frontender007/loopstudio/blob/master/public/images/logo.svg" alt="Site Logo" />
+                    <img src="images/logo.svg" alt="Site Logo" />
                 </a>
             </div>
 
