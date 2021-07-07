@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/loopstudio/static/css/main.137436d4.chunk.css",
-    "main.js": "/loopstudio/static/js/main.b6a1458b.chunk.js",
-    "main.js.map": "/loopstudio/static/js/main.b6a1458b.chunk.js.map",
+    "main.js": "/loopstudio/static/js/main.c1a61bf8.chunk.js",
+    "main.js.map": "/loopstudio/static/js/main.c1a61bf8.chunk.js.map",
     "runtime-main.js": "/loopstudio/static/js/runtime-main.8528f345.js",
     "runtime-main.js.map": "/loopstudio/static/js/runtime-main.8528f345.js.map",
     "static/js/2.aff42bc3.chunk.js": "/loopstudio/static/js/2.aff42bc3.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8528f345.js",
     "static/js/2.aff42bc3.chunk.js",
     "static/css/main.137436d4.chunk.css",
-    "static/js/main.b6a1458b.chunk.js"
+    "static/js/main.c1a61bf8.chunk.js"
   ]
 }
