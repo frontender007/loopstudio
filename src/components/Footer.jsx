@@ -4,16 +4,16 @@ const Footer = () => {
             
             <div className="row">
                 <div>
-                    <a href="/" className="brand-identity">
-                        <img src="/images/logo.svg" alt="Site Logo" />
+                    <a href="/loopstudio" className="brand-identity">
+                        <img src="images/logo.svg" alt="Site Logo" />
                     </a>
                 </div>
                 <div className="social">
                     <ul>
-                        <li><a href="/"><img src="/images/icon-facebook.svg" alt="Facebook Icon" /></a></li>
-                        <li><a href="/"><img src="/images/icon-twitter.svg" alt="Twitter Icon" /></a></li>
-                        <li><a href="/"><img src="/images/icon-pinterest.svg" alt="Pinterest Icon" /></a></li>
-                        <li><a href="/"><img src="/images/icon-instagram.svg" alt="Instagram Icon" /></a></li>
+                        <li><a href="/loopstudio"><img src="images/icon-facebook.svg" alt="Facebook Icon" /></a></li>
+                        <li><a href="/loopstudio"><img src="images/icon-twitter.svg" alt="Twitter Icon" /></a></li>
+                        <li><a href="/loopstudio"><img src="images/icon-pinterest.svg" alt="Pinterest Icon" /></a></li>
+                        <li><a href="/loopstudio"><img src="images/icon-instagram.svg" alt="Instagram Icon" /></a></li>
                     </ul>
                 </div>
             </div>

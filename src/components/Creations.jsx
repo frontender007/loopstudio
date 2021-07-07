@@ -10,33 +10,33 @@ const Creations = () => {
 
             <div className="row">
                 <div>
-                    <img src="/images/desktop/image-deep-earth.jpg" alt="Earth" />
+                    <img src="images/desktop/image-deep-earth.jpg" alt="Earth" />
                     <h4>Deep Earth</h4>
                 </div>
                 <div>
-                    <img src="/images/desktop/image-night-arcade.jpg" alt="Night Arcade" />
+                    <img src="images/desktop/image-night-arcade.jpg" alt="Night Arcade" />
                     <h4>Night Arcade</h4>
                 </div>
                 <div>
-                    <img src="/images/desktop/image-soccer-team.jpg" alt="Soccer" />
+                    <img src="images/desktop/image-soccer-team.jpg" alt="Soccer" />
                     <h4>Soccer Team</h4>
                 </div>
                 <div>
-                    <img src="/images/desktop/image-grid.jpg" alt="Grid" />
+                    <img src="images/desktop/image-grid.jpg" alt="Grid" />
                     <h4>Grid</h4>
                 </div>
             </div>
             <div className="row">
                 <div>
-                    <img src="/images/desktop/image-from-above.jpg" alt="Birdeye view" />
+                    <img src="images/desktop/image-from-above.jpg" alt="Birdeye view" />
                     <h4>From Up Above</h4>
                 </div>
                 <div>
-                    <img src="/images/desktop/image-pocket-borealis.jpg" alt="Pocket Borealis" />
+                    <img src="images/desktop/image-pocket-borealis.jpg" alt="Pocket Borealis" />
                     <h4>Pocket Borealis</h4>    
                 </div>
                 <div>
-                    <img src="/images/desktop/image-curiosity.jpg" alt="Curiosity" />
+                    <img src="images/desktop/image-curiosity.jpg" alt="Curiosity" />
                     <h4>Curiosity</h4>
                 </div>
                 <div>

@@ -2,7 +2,7 @@ const Main = () => {
     return (
         <section className="main">
            <div className="vr-illustration">
-               <img src="/images/desktop/image-interactive.jpg" alt="VR Image" />
+               <img src="images/desktop/image-interactive.jpg" alt="VR Image" />
            </div>
            <div className="vr-description">
                <h2>The leader in interactive VR</h2>
